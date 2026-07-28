@@ -1,5 +1,7 @@
 # Software Developer Guide for Everyday Solutions
 
+## Compressing Videos Using Your Own Computer
+
 - Use the command below to compress videos. (Useful if you are using videos on a customer website). Run it inside the directory that includes the video, and the output file will be created in the same directory.
 
 I have tried this command on my MacBook and it worked well.
